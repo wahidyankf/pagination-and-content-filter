@@ -526,4 +526,20 @@ body {
   background-color: #4ba6c3;
   color: #fff; }
 
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: pink; }
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: pink; }
+
+:-ms-input-placeholder {
+  /* IE 10+ */
+  color: pink; }
+
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: pink; }
+
 /*# sourceMappingURL=app.css.map */

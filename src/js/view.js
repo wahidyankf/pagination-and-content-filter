@@ -2,7 +2,7 @@ const view = {
   renderInit() {
     // append header
     $('.page-header').append(
-      `<div class="student-search"><form><input type="text"><button>Search</button></form>`
+      `<div class="student-search"><form><input type="text" placeholder="Search Student"></form>`
     );
 
     // building search value
