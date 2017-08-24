@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, an HTML page and CSS files was given and I have to add a search and pagination feature using unobstrusive javascript.
+In this project, an HTML page and CSS files was given and I have to add a search and pagination feature using unobstrusive javascript. The resulting page is a page that display at most 10 student entries with an instant student search capabilities.
 
 ## Usage
 
