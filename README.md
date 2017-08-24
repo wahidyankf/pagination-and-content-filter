@@ -1,14 +1,14 @@
-# Team Treehouse Tech Degree - ___ - P___ - ___
+# Pagination and Content Filter
 
 ## Introduction
 
-This is the ___ project of ___ . The complete instruction of the project can be seen in [project_instructions.pdf](https://github.com/wahidyankf/___/blob/master/project_instructions.pdf), and the initial code and assets can be seen in the `initial_assets` folder.
+In this project, an HTML page and CSS files was given and I have to add a search and pagination feature using unobstrusive javascript.
 
 ## Usage
 
 ### Demo pages
 
-You can see the demo page [here](https://wahidyankf.github.io/___/).
+You can see the demo page [here](https://wahidyankf.github.io/pagination-and-content-filter/).
 
 ### Result
 
@@ -24,7 +24,9 @@ This app was tested using [HTML](https://validator.w3.org/) and [CSS](https://ji
 
 ## Sreenshots
 
-![screenshot 1](screenshots/___.jpg)
+![screenshot 1](screenshots/screenshot1.png)
+![screenshot 2](screenshots/screenshot2.png)
+![screenshot 3](screenshots/screenshot3.png)
 
 ## License
 
